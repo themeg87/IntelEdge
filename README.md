@@ -8,4 +8,4 @@
 
 상급 과정으로는 AI 기반 비전검사, ADAS 자율주행 시스템 부품 개발 등이 있으며, 이들 프로젝트는 고급 프로그래밍 기술과 최신 기술 트렌드를 반영한 내용을 포함합니다.
 
-![image](https://github.com/themeg87/IntelEdge/assets/153694211/65fbcfb3-50d4-4cfc-b683-8695634cb808)
+
