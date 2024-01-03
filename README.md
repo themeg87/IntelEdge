@@ -1,1 +1,2 @@
-# C++ 에 대해서 알수 있다
+# Let's learn about C++
+ 
