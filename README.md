@@ -1,4 +1,5 @@
-![image](https://github.com/themeg87/IntelEdge/assets/153694211/8a8da5a9-dbfe-47e7-a496-f287a3f5c133)# 프로젝트 및 교과 내용
+![image](https://github.com/themeg87/IntelEdge/assets/153694211/8a8da5a9-dbfe-47e7-a496-f287a3f5c133)   
+# 프로젝트 및 교과 내용   
 
 - **초급 실습 프로젝트**: C언어를 이용한 기본 프로그래밍 능력 향상을 목표로 하는 프로젝트.
 - **베이직 프로젝트**: C언어를 활용하여 프로그래밍 기초를 다지는 과정.
